@@ -1,7 +1,8 @@
 #include <stdio.h>
 //comentario agregado
-
+//cambio
 void main(void){
 	printf("Hola, mundo!");
+printf("listo");
 	return 0;
 }
